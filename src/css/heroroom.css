@@ -282,7 +282,7 @@ margin-left: auto;
 
     .door-slider-max {
       display: flex;
-      width: 1143px;
+      /* width: 1143px; */
       margin-left: auto;
       margin-right: auto;
     }
@@ -340,14 +340,13 @@ margin-left: auto;
       column-gap: 86px;
       /* margin-left: 37px; */
       margin-bottom: 24px;
+      width: initial;
     }
-
   
     .service-btn {
       margin-left: 32px;
     }
-  
-  
+
     .label {
       padding-left: 390px;
       margin-top: 0;

@@ -2,6 +2,7 @@
   "name": "Mimino-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://maksymchukhrai.github.io/Mimino-project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +12,7 @@
   "devDependencies": {
     "vite": "^4.0.0"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Maksym Chukhrai <m.chukhrai@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-html-inject": "^1.0.1"
